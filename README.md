@@ -14,18 +14,6 @@ An accompanied Medium blog post has been written up and can be viewed here: [The
 * [Python 2.7](https://www.python.org/download/releases/2.7/) or [Python 3.6](https://www.python.org/downloads/release/python-360/)
 * [Jupyter Notebook](http://jupyter.org/)
 
-## Dependencies
 
-Choose the latest versions of any of the dependencies below:
-* [pandas](https://pandas.pydata.org/)
-* [numpy](http://www.numpy.org/)
-* [scipy](https://www.scipy.org/)
-* [matplotlib](https://matplotlib.org/)
-* [sklearn](http://scikit-learn.org/stable/)
-* [wordcloud](https://github.com/amueller/word_cloud)
-* [searborn](https://seaborn.pydata.org/)
-* [surprise](http://surpriselib.com/)
-* [keras](https://keras.io/)
-* [h5py](https://www.h5py.org/)
 
 
